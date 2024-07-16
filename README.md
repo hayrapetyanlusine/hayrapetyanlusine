@@ -4,12 +4,7 @@
 {
   "name": "Lusine Hayrapetyan",
   "country": "Armenia",
-  "skills": [
-    "JavaScript",
-    "TypeScript",
-    "React",
-    "Angular"
-  ],
+  "skills": ["JavaScript", "TypeScript", "React", "Angular"],
   "github_stats": {
     "username": "hayrapetyanlusine"
   }
