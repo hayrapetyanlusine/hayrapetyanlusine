@@ -1,6 +1,22 @@
-<!---
-<h3 align="center">Hi 👋, I'm Lusine</h3>
+# Hi there, I'm Lusine Hayrapetyan! 👋
+  
+```json
+{
+  "name": "Lusine Hayrapetyan",
+  "country": "Armenia",
+  "skills": [
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Angular"
+  ],
+  "github_stats": {
+    "username": "hayrapetyanlusine"
+  }
+}
+```
 
+<!---
 </br>
 <div align=center>
   <a target="_blank" href="https://www.linkedin.com/in/lusine-hayrapetyan-74154723b/ "><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
